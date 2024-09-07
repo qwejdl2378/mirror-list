@@ -22,3 +22,7 @@
 [oracle linux](https://yum.oracle.com/oracle-linux-isos.html)
 [openwrt](https://downloads.openwrt.org/releases/23.05.0/targets/x86/64/)
 [debian](https://www.debian.org/distrib/index.zh-cn.html)
+[cloud-init](https://cloudinit.readthedocs.io/en/latest/index.html)
+
+# Network
+[adguard-dns](https://adguard-dns.io/kb/zh-CN/)
